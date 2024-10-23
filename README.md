@@ -2,12 +2,11 @@
 Repo for testing
 
 ## Testing Content
--Linux
-- Git
+- Linux
+- Git/GitHub
 - Ansible
 - Jenkins
 - Docker
 - Kubernetes
-- 
 
   
